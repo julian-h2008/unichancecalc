@@ -1,0 +1,49 @@
+body {
+  background-color: #f2f2f2;
+}
+h1 {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  font-weight: normal;
+  font-size: 40px;
+  color: white;
+}
+.header {
+  padding: 5px;
+  text-align: center;
+  background-color: #6699ff;
+  width: auto;
+}
+h2 {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  font-weight: 100;
+  font-size: 60px;
+  color: black;
+}
+#box {
+  height: 200px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid;
+  border-radius: 7%;
+  border-width: 2px;
+  padding: 10px;
+}
+h3 {
+  font-family: "Comfortaa", cursive;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.button {
+  background-color: #4CAF50;  
+  font-size: 16px;
+  font-family: "Comfortaa", cursive;
+}
